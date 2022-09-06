@@ -1,19 +1,53 @@
 body {
-  background-color: rgb(179, 99, 179);
+  background-color: #b350b3;
 }
 
 .navbar {
-  background-color: rgb(165, 82, 165);
+  background-color: #b363b3;
 }
 
 .nav-link {
-  color: silver;
+  color: goldenrod;
+}
+
+.navbar-brand {
+  background-color: #b39874;
+  padding: 0.2rem;
+  border-radius: 100%;
 }
 
 .nav-link:hover {
-  color: rgb(148, 148, 148);
+  color: #b39874;
+}
+.about {
+  background: #fefefe;
+  align-items: center;
+  margin: 2rem 17rem;
 }
 
-.foto-pessoal {
-  width: 45%;
+.about-img {
+  margin: 2rem;
+  width: 30%;
+}
+
+.about-text {
+  height: 100%;
+  text-align: justify;
+  margin-right: 2rem;
+}
+.about-text p {
+  color: #b350b3;
+}
+
+.about-title {
+  margin-bottom: 5rem;
+  color: #b39874;
+}
+.classes-title {
+  text-align: center;
+  color: #b39874;
+}
+
+.cards {
+  margin-bottom: 2rem;
 }
