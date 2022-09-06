@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(179, 99, 179);
+}
+
+.navbar {
+  background-color: rgb(165, 82, 165);
+}
+
+.nav-link {
+  color: silver;
+}
+
+.nav-link:hover {
+  color: rgb(148, 148, 148);
+}
+
+.foto-pessoal {
+  width: 45%;
+}
